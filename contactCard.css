@@ -32,8 +32,9 @@ form{
 	}
 
 	.card .descrip{
-		position: relative;
-		top: 45%;
+		display: inline-block;
+		text-align: left;
+		padding: 20px;
 	}
 
 #container{
